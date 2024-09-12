@@ -1,4 +1,4 @@
--# 👋 Hi, I'm Ran Edelman
+# 👋 Hi, I'm Ran Edelman
 
 Welcome to my GitHub profile!
 
