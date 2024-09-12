@@ -26,8 +26,6 @@ I am currently enhancing my skills in full-stack and product development, with a
 ## 📫 How to reach me:
 - Email: [ranedelmann@gmail.com](mailto:ranedelmann@gmail.com)
 - LinkedIn: [Ran Edelman](http://www.linkedin.com/in/ran-edelman-a06aba20b)
-- GitHub: [RanEdelmanGit](https://github.com/RanEdelmanGit)
-
 ---
 
 Thanks for visiting my profile, feel free to reach out!
